@@ -1,0 +1,71 @@
+/*boder color: #bdc3c7;
+date color: #3498db;
+h2 color #2c3e50
+
+font: Chakra Petch*/
+
+body {
+	border: 20px solid #454545;
+	padding: 2px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: Chakra Petch;
+	background-color: #282829;
+}
+
+h1 {
+	color: #3498db;
+	text-transform: uppercase;
+}
+
+h2 {
+	color:#2c3e50;
+	font-size: 2.0rem;
+}
+
+div {
+	/*border-bottom: 1px solid #bdc3c7;*/
+	background-color: white;
+	margin: 20px;
+	padding: 2px;
+}
+
+/*  hr style: Glyph, by Harry Roberts */
+hr {
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+hr:after {
+    content: "Halyana";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
+
+
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+.post {
+	margin-bottom: 25px;
+}
+
+

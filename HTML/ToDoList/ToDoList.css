@@ -1,0 +1,25 @@
+body{
+	background: #F2FFB3;
+}
+
+div{
+	background: purple;
+}
+
+p{
+	color: yellow;
+}
+li {
+	border: 2px solid red;
+}
+.important {
+	background: red;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+
+#special {
+	color: red;
+}
